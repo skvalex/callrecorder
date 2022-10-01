@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1 (3.5.0)",
-  "versionCode": 42,
-  "zipUrl": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/releases/download/v.42/Call_Recorder_-_SKVALEX-2.1.1_3.5.0-42.zip",
+  "version": "2.1.1 (3.5.1)",
+  "versionCode": 43,
+  "zipUrl": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/releases/download/v.43/Call_Recorder_-_SKVALEX-2.1.1_3.5.1-43.zip",
   "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md"
 }
