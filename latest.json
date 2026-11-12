@@ -1,10 +1,10 @@
 {
-  "code": 9024004,
-  "name": "3.7.7",
-  "size": 20123548,
-  "url": "https://github.com/skvalex/callrecorder/releases/download/3.7.7/CallRecorder_v.3.7.7.apk",
-  "md5": "db627d7d59a1a799736399e300e57667",
-  "sha256": "c4afac1dc8bd5bd622a89dbfa2651c1a6f5374980d2a1c24e363b07b6fac7ff3",
+  "code": 9024005,
+  "name": "3.7.8",
+  "size": 20427876,
+  "url": "https://callrecorder.skvalex.com/files/aae2611d/CallRecorder_v.3.7.8.apk",
+  "md5": "aae2611d8526fe787919469791cbbd07",
+  "sha256": "b7b4eb5fc6897f411abe7a9e97701ead3de27e2f80e07f8bae5e8d694b74cc7e",
   "channel": "stable",
-  "changelogUrl": "https://raw.githubusercontent.com/skvalex/callrecorder/updates/changelog/9024004.json"
+  "changelogUrl": "https://raw.githubusercontent.com/skvalex/callrecorder/updates/changelog/9024005.json"
 }
